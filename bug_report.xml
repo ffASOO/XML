@@ -1,2 +1,15 @@
 
-commit
+<bug>
+    <ID>1</ID>,
+    <Version>Windows 11 21H2</Version>,
+    <Summary> "Не отображается меню навигации "Guide" в разделе Twitter`а "</Summary>,
+    <Steps>
+ 1. Открыть сайт
+ 2. Из меню выбрать раздел Learn to trade ---> Guides 
+ 3. В меню навигации справа, выбрать раздел Twitter</Steps>,
+    <Actual_result>В разделе Twitter отсутствует меню навигации</Actual_result>,
+    <Expected_result>Меню навигации справа отображается в каждом разделе guide</Expected_result>,
+    <Severity>Minor</Severity>,
+    <Priority>Low</Priority>,
+    <Attachments>Screenshot</Attachments>
+</bug>
